@@ -1,0 +1,11 @@
+{
+  "name": "miya-ai-work-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A privacy-reviewed public portfolio about human-AI collaboration.",
+  "scripts": {
+    "dev": "node scripts/serve.cjs",
+    "test": "node --test tests/public.test.cjs"
+  },
+  "engines": { "node": ">=20" }
+}
